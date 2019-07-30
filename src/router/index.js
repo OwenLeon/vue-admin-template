@@ -160,7 +160,23 @@ export const constantRoutes = [
   },
 
   // 404 page must be placed at the end !!!
-  { path: '*', redirect: '/404', hidden: true }
+  { path: '*', redirect: '/404', hidden: true },
+
+   {
+    path: '/excel',
+    component: Layout,
+    meta: {
+      title: 'excel',
+      icon: 'excel'
+    },
+    children: [
+    { path: 'export-excel', component: ()=>import('@/views/excel/export-excel'), name: 'exportExcel', meta: { title: 'exportExcel' }},
+    { path: 'export-selected-excel', component: ()=>import('@/views/excel/select-excel'), name: 'selectExcel', meta: { title: 'selectExcel' }},
+    { path: 'upload-excel', component: ()=>import('@/views/excel/upload-excel'), name: 'uploadExcel', meta: { title: 'uploadExcel' }}
+  ]
+  }
+
+
 ]
 
 const createRouter = () => new Router({
