@@ -14,11 +14,13 @@
 
 ## 相关项目
 
-[vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)
+- [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)
 
-[electron-vue-admin](https://github.com/PanJiaChen/electron-vue-admin)
+- [electron-vue-admin](https://github.com/PanJiaChen/electron-vue-admin)
 
-[vue-typescript-admin-template](https://github.com/Armour/vue-typescript-admin-template)
+- [vue-typescript-admin-template](https://github.com/Armour/vue-typescript-admin-template)
+
+- [awesome-project](https://github.com/PanJiaChen/vue-element-admin/issues/2312)
 
 写了一个系列的教程配套文章，如何从零构建后一个完整的后台项目:
 
@@ -76,6 +78,10 @@ npm run lint -- --fix
 ```
 
 更多信息请参考 [使用文档](https://panjiachen.github.io/vue-element-admin-site/zh/)
+
+## 购买贴纸
+
+你也可以通过 购买[官方授权的贴纸](https://smallsticker.com/product/vue-element-admin) 的方式来支持 vue-element-admin - 每售出一张贴纸，我们将获得 2 元的捐赠。
 
 ## Demo
 

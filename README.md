@@ -11,7 +11,6 @@ English | [简体中文](./README-zh.md)
 
 ## Build Setup
 
-
 ```bash
 # clone the project
 git clone https://github.com/PanJiaChen/vue-admin-template.git
@@ -68,11 +67,13 @@ For `typescript` version, you can use [vue-typescript-admin-template](https://gi
 
 ## Related Project
 
-[vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)
+- [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)
 
-[electron-vue-admin](https://github.com/PanJiaChen/electron-vue-admin)
+- [electron-vue-admin](https://github.com/PanJiaChen/electron-vue-admin)
 
-[vue-typescript-admin-template](https://github.com/Armour/vue-typescript-admin-template)
+- [vue-typescript-admin-template](https://github.com/Armour/vue-typescript-admin-template)
+
+- [awesome-project](https://github.com/PanJiaChen/vue-element-admin/issues/2312)
 
 ## Browsers support
 
